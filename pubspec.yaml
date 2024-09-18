@@ -1,0 +1,19 @@
+name: easy_paymob
+description: "(Online Cards,Kiosk,Mobile Wallet) in your Flutter app with Paymob"
+version: 0.0.1
+homepage: https://github.com/MoamenRabee/easy_paymob
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  dio: ^5.2.1+1
+  webview_flutter: ^4.8.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
